@@ -1,0 +1,5 @@
+C:\Users\Coditas\source\repos\EmployeeManagementAPI\EmployeeManagement.Testing\obj\Debug\net6.0\EmployeeManagement.Testing.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\EmployeeManagementAPI\EmployeeManagement.Testing\obj\Debug\net6.0\EmployeeManagement.Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\EmployeeManagementAPI\EmployeeManagement.Testing\obj\Debug\net6.0\EmployeeManagement.Testing.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\EmployeeManagementAPI\EmployeeManagement.Testing\obj\Debug\net6.0\EmployeeManagement.Testing.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\EmployeeManagementAPI\EmployeeManagement.Testing\obj\Debug\net6.0\EmployeeManagement.Testing.csproj.CoreCompileInputs.cache
